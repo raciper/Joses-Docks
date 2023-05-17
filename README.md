@@ -13,6 +13,8 @@ Enhance your docks with the array of "Dock Accessories", including weathered sta
 
 Please note that "Jose's Docks" is currently under development, with frequent updates and new additions. While it may not be suitable for general use, it is fully functional for single-player experiences and servers that welcome regular updates.
 
+Steam Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2976855903
+
 Developer Notes:
 
 Pilings are very tall pillar variants, than can be placed on the ground be snaepped to decks, ceilings. or other pilings.
