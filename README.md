@@ -17,11 +17,11 @@ Steam Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2976855903
 
 Developer Notes:
 
+Expected Mod folder Mods/JosesDocks
 Pilings are very tall pillar variants, than can be placed on the ground be snaepped to decks, ceilings. or other pilings.
 Decks are double sized ceilings that can snap to and from ceilings, walls and pilings.
 Small Decks are snap like ceilings.
 
 TODO:
 
-Dock Accessories:  worn wood variants of stairs, railings and ladders
 Dock Decor: items to be placed on and arround the docks
